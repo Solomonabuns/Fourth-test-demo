@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Sign Up_series-view-v2-channelImage d-block ng-star-inserted</name>
+   <tag></tag>
+   <elementGuidId>8aa5cfe0-630d-47aa-8543-baf02484112c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.series-view-v2-channelImage.d-block.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hero-container']/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f5426736-e90a-4a7d-9e6f-be43a47fbf19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Channel Logo</value>
+      <webElementGuid>8175dd5c-389f-4923-8b26-c80d6215da4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>series-view-v2-channelImage d-block ng-star-inserted</value>
+      <webElementGuid>5e09a90e-d8e7-442c-a6fd-28094be9cc25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images.watchcorridor.com/i/f643c98e-9161-4eb0-bd20-75d7baa83b53.png</value>
+      <webElementGuid>88217eee-200d-444a-9021-5f41a50fc949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hero-container&quot;)/div[@class=&quot;hero-overlay col-12 series-view-v2-overlay&quot;]/div[@class=&quot;col-11 col-md-5 col-xxl-4 ml-2 ml-md-5&quot;]/img[@class=&quot;series-view-v2-channelImage d-block ng-star-inserted&quot;]</value>
+      <webElementGuid>5de1368e-7732-49d5-b470-09ed610f69f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hero-container']/div/div/img</value>
+      <webElementGuid>9a1ed90a-be06-4ea7-a7ca-93a183e6698a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Channel Logo']</value>
+      <webElementGuid>d8351017-db09-4438-a839-6e747728c30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/img</value>
+      <webElementGuid>94b0676c-ae27-4540-96a2-dca76d407775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Channel Logo' and @src = 'https://images.watchcorridor.com/i/f643c98e-9161-4eb0-bd20-75d7baa83b53.png']</value>
+      <webElementGuid>96902f6e-d8a1-47ed-a7bc-c145ac39d421</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
